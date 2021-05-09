@@ -4,8 +4,6 @@ Hello, My name is Gabriel Guerra, 14 years and I have 4 years of experience,
 I love linux (debian), but I am interesting in Arch Linux, and I develop in
 frontend and backend.
 
-#
-
 ## My preferred tecnologies are:
 
 - Javascript (Node.js, Deno)
@@ -24,8 +22,6 @@ frontend and backend.
 - Python (curses (for cli apps (as guis in the terminal)))
 - Electron (for desktop applications (with web tecnologies))
 
-#
-
 ## I am interesting in:
 
 - Arch Linux (linux operative system)
@@ -36,8 +32,6 @@ frontend and backend.
 - Cordova (For mobile apps writted in web tecnologies)
 - Flutter (For mobile apps writted in dart)
 - Dart (For writte apps in flutter)
-
-#
 
 ## My tools are
 
@@ -54,13 +48,9 @@ frontend and backend.
 - [tasks-app-cli](https://github.com/AlphaTechnolog/Tasks-App-CLI) (for manage my tasks)
 - feh (as wallc dependencie)
 
-#
-
 ## Stats
 
 ![Gabriel's Guerra stats](https://github-readme-stats.vercel.app/api?username=AlphaTechnolog&show_icons=true&theme=react)
-
-#
 
 ## Most languages
 
