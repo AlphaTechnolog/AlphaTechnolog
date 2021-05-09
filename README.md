@@ -56,4 +56,12 @@ frontend and backend.
 
 #
 
-![Gabriel's Guerra stats](https://github-readme-stats.vercel.app/api?username=AlphaTechnolog&show_icons=true&theme=dark)
+## Stats
+
+![Gabriel's Guerra stats](https://github-readme-stats.vercel.app/api?username=AlphaTechnolog&show_icons=true&theme=react)
+
+#
+
+## Most languages
+
+![Gabriel's Guerra Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaTechnolog&theme=react&layout=compact&hide=HTML)
