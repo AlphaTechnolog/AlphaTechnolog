@@ -22,7 +22,7 @@ frontend and backend.
 - Python (curses (for cli apps (as guis in the terminal)))
 - Electron (for desktop applications (with web tecnologies))
 
-## I am interesting in:
+## I am interested in:
 
 - Arch Linux (linux operative system)
 - Docker (For apps containers)
