@@ -50,7 +50,7 @@ frontend and backend.
 
 ## Stats
 
-![Gabriel's Guerra stats](https://github-readme-stats.vercel.app/api?username=AlphaTechnolog&show_icons=true&theme=react)
+![Gabriel's Guerra stats](https://github-readme-stats.vercel.app/api?username=AlphaTechnolog&show_icons=true&theme=react&include_all_commits=true)
 
 ## Most languages
 
