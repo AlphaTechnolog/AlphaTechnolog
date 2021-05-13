@@ -102,7 +102,7 @@ I have a finished projects:
 
 <a href="https://www.electronjs.org"><img src="https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico" width="32" height="32"></a>
 
-<a href="https://www.php.net/"><img  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAaVBMVEWJk8EiJDCNmMcfISw8QFYdHykZGiMVFh4bHSYgIi0XGCEaGyVbYoFOU24TFBuEjrpSWHR9hrBxeZ9XXXtKT2glJzRlbY8vMkJFSmJrc5eGkL1ye6Fka414gKmRm8wqLDs2Ok1BRVwMDBH8Wh8fAAAERElEQVR4nO3b65KiOhQFYNgIAUEBwQu2F5z3f8gh7B0uQnWXTh2pPlnfry5jpnRVkp0Ex3EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAZsaU/xi9VleWmLMsE+b2DVoHfUIjvLbSP3EawW/qD/E7p1m3jS5f+IL/TLtDpRXvM3XdQEur4vAfiewedfB1fiMrxFrqjcvyAJvq2tF36XHWea/yuozXosRork51jgvhat/F50vQ4ZZdrl1I97vfYJFf7Ejwrb8wP12F2bnOgS+xyfqbNj9U+4Y7X7XPHWHnJkl9lCVceYGNhsNP5UelP26L4ftZth3imY+DmVg1AuoQzKbjuVucnlWMSrt7H0GYmWh1uvvRX+iQzwPw4jOMw9D2Tw1ofNBT/7bOubdu00ZGj9dt+oW+CjvZLf6VPkhT8MmlltZJB5ZfUTewi0zarUNrajYzEnnHHzVFJuoFVm0Q+1K6vZvORljKbYzOxvdXNbEweHFFwICfnkbnt9i95zYFGd4vikwGm+lduktH6Sya2n3V55PzuoHKcKnjOyqyUW3vuF2RrEh0HI4avCZohduOJrcMSqZKx6lDG0Z4G8fEBWbfaQuqnXug6Mi3ji8NbE9XXUjNWU4fqdozGw4WOB2QzbD/4BZYlKYSXufjkD69vkoBcckiG6DAqGbYWjT6pn6MBI0Ms2FXt6PPqLlqZsfr+SqJdD9Y5s4VU9uz85lI4SApp9lw5zFgtyFSO4T2qhNsUY2tM66e543Ojmyxvh77RM4WXim4c9h250ngrazYuM/Wz2w+Xt8lSJmO1mZ204nGYTNdMi+5WZ+onXSS1XT7ZEvJiqGsJ7WV9HPxbMnctWvpkpA3r55lDa+bzgSd2vyU0M7aZnbIBVP2aSVc+v9j0XMScvM7mBUrvvL6pykzsTR8fz1hdSyZP4CiX8/DWosFn6qc51KaXgNMLT0STykFxXznkCZzpmGeKT2xBYc/gk9kYHdtLk6I8ruW6wLufHXK/qRx8LvZWbb/idDf3NKE9ZdcxKbhRqPndnZ2/T/tC2k1sc+YIyPx2w/WeOob1cl/m82j2MtkNjroiVNPKwTO2OYWkczf8zbh8LPhlPk/q55ivCt0mE3twmSBjVdcSOd2ORHF8sWjmOt0Z3+2eo4WBcrOUn7LVoX5t3UdCrq9fUQcyV1PRsOM9OduVnsxG926e4pZF1T2qJX6x7itHyg9269yc66Kj6bhJqty6Z7xmNhZm+zFK4JtXzG83qtmOtjC/fax+fuvYudvB2Ezq5+spfPGa6f38zv+z3ZspmF/91TZO2Y5J4eWDwvQJnI2kfr6egtyLDu9RLfR+5bDvkdCM9E/7y5XXb5iuW+74X3yo3yMvN1r5cscdd7R76fuH/65m71YZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGDGXzxYMBAOm+iZAAAAAElFTkSuQmCC" width="64" height="32"></a>
+<a href="https://www.php.net/"><img src="https://www.php.net/images/logos/php-logo.svg" width="32" height="32"></a>
 
 <a href="codeigniter.com"><img src="https://codeigniter.com/assets/images/ci-logo-big.png" height="42" width="32"></a>
 
@@ -159,7 +159,7 @@ I have a finished projects:
 
 <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Varela+Round" />
 
-<a style="font-family: 'Varela Round', sans-serif; font-size: 30px; color: white !important" href="https://www.qtile.org/"><span style="font-color: white !important; font-family: 'Varela Round', sans-serif;"><span class="fa fa-power-off" style="font-weight: bold; transform: rotate(135deg); text-shadow: 0 0 0 #fff;"></span>tile</span></a>
+<a href="https://www.qtile.org">Qtile</a>
 
 <a href="https://xmonad.org/"><img src="https://xmonad.org/images/xmonad-logo.png" width="22" height="32"></a>
 
