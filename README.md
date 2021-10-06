@@ -1,9 +1,8 @@
 # Gabriel Guerra (AlphaTechnolog)
 
-Hello, My name is Gabriel Guerra, 14 years and I have 5 years of experience,
-I love linux (debian), but I am interested in Arch Linux, I am a fullstack
-web developer, and I love the linux terminal, but it I develop a cli
-apps for linux.
+Hello, My name is Gabriel Guerra, 14 years with 5 years of experience.
+I love linux (debian), but I am interested in Arch Linux, I'm a fullstack
+web developer, I love the linux terminal, because it, I develop cli applications for linux
 
 ## My preferred tecnologies are:
 
