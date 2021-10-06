@@ -68,8 +68,7 @@ My tools for all days are:
 I am working with a coders group (GueZarCode), in it group, I am working in this
 projects:
 
-- [Mundo Parcelas](http://144.202.89.160/) (An parcels sell system and no crm included and emailing included and other powerfulls tools to parcels sell in this project)
-- FarmaciaArgentina (this isn't in a server)
+- Mundo Parcelas (An parcels sell system and no crm included and emailing included and other powerfulls tools to parcels sell in this project)
 
 ## Created projects
 
