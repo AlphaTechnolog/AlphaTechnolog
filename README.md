@@ -1,8 +1,9 @@
 # Gabriel Guerra (AlphaTechnolog)
 
 Hello, My name is Gabriel Guerra, 14 years with 5 years of experience.
-I love linux (Arco Linux), but I am interested in Arch Linux, I'm a fullstack
-web developer, I love the linux terminal, because it, I develop cli applications for linux
+I love linux, and now I'm using Arch Linux. I'm a fullstack
+web developer. I really love make cli applications for linux terminal, because it
+is one of my most preferred linux utility.
 
 ## My preferred tecnologies are:
 
