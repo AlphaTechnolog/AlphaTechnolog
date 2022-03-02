@@ -1,7 +1,7 @@
 # Gabriel Guerra (AlphaTechnolog)
 
 Hello, My name is Gabriel Guerra, 14 years with 5 years of experience.
-I love linux, and now I'm using Arch Linux. I'm a fullstack
+I love linux, and now I'm using Void Linux. I'm a fullstack
 web developer. I really love make cli applications for linux terminal, because it
 is one of my most preferred linux utility.
 
@@ -29,13 +29,9 @@ is one of my most preferred linux utility.
 
 ## I am interested in:
 
+- Void Linux (my primary and loved operative system)
 - Arch Linux (linux operative system)
 - Docker (For apps containers)
-- Manjaro (linux operative system (based in Arch Linux (more easy to install, and use)))
-- React Native (For mobile apps writted in React.js)
-- Ionic (For mobile apps writted in web tecnologies)
-- Cordova (For mobile apps writted in web tecnologies)
-- Flutter (For mobile apps writted in dart)
 
 ## My tools
 
