@@ -1,7 +1,7 @@
 # Gabriel Guerra (AlphaTechnolog)
 
-Hello, My name is Gabriel Guerra, 14 years with 5 years of experience.
-I love linux, and now I'm using Void Linux. I'm a fullstack
+Hello, My name is Gabriel Guerra, 15 years with 5 years of experience.
+I love linux, and now I'm using Arch Linux. I'm a fullstack
 web developer. I really love make cli applications for linux terminal, because it
 is one of my most preferred linux utility.
 
@@ -27,11 +27,10 @@ is one of my most preferred linux utility.
 - PHP (for web applications)
 - Codeigniter (Basic codeigniter concepts (for web applications))
 
-## I am interested in:
+## Os that i love
 
-- Void Linux (my primary and loved operative system)
-- Arch Linux (linux operative system)
-- Docker (For apps containers)
+- Arch Linux (My primary and loved operative system)
+- Void Linux (A linux based operative system that use runit :3)
 
 ## My tools
 
