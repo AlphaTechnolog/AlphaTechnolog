@@ -41,7 +41,7 @@ I'm working too in a darker palette!
 
 This is my current setup that i'm working to upload! :3 (really WIP setup)
 
-![setup](https://user-images.githubusercontent.com/54639968/170885744-df1e15af-16f2-4958-a815-9c9ca39da8da.png)
+![demonstration](https://user-images.githubusercontent.com/54639968/171412695-cb88e9da-be02-4e9c-b0d5-32cf8768eca4.png)
 
 ## Os
 
