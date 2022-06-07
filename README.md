@@ -39,9 +39,9 @@ I'm working too in a darker palette!
 
 ## Current setup
 
-This is my current setup that i'm working to upload! :3 (really WIP setup)
+This is my [current setup](https://github.com/AlphaTechnolog/dotfiles-v2)
 
-![demonstration](https://user-images.githubusercontent.com/54639968/171412695-cb88e9da-be02-4e9c-b0d5-32cf8768eca4.png)
+![banner](https://user-images.githubusercontent.com/54639968/172476805-70960218-3d23-48e9-afd1-c4d8b6291da3.png)
 
 ## Os
 
