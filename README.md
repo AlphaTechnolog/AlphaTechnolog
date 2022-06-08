@@ -41,7 +41,7 @@ I'm working too in a darker palette!
 
 This is my [current setup](https://github.com/AlphaTechnolog/dotfiles-v2)
 
-![banner](https://user-images.githubusercontent.com/54639968/172476805-70960218-3d23-48e9-afd1-c4d8b6291da3.png)
+![banner](https://user-images.githubusercontent.com/54639968/172680864-5f3b85aa-981c-408a-bd9b-65a40cca3cab.png)
 
 ## Os
 
