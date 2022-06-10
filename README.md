@@ -17,6 +17,7 @@ I love the linux ricing, and now i'm using void linux, but i used the next opera
 
 If you want to check my ricing, you can see my [repositories](https://github.com/AlphaTechnolog?tab=repositories), or the following repos:
 
+- [dotfiles-v2](https://github.com/AlphaTechnolog/dotfiles-v2)
 - [dwm](https://github.com/AlphaTechnolog/dwm)
 - [eww-dotfiles](https://github.com/AlphaTechnolog/eww-dotfiles)
 - [nightlypwn](https://github.com/NightCS/nightlypwn)
