@@ -38,6 +38,8 @@ You can contribute uploading pull requests/issues, that would be very appreciate
 
 I'm working too in a darker palette!
 
+**Join to the decay discord server!!**: https://discord.gg/87duqCjx
+
 ## Current setup
 
 This is my [current setup](https://github.com/AlphaTechnolog/dotfiles-v2)
