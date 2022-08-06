@@ -17,7 +17,7 @@ I love the linux ricing, and now i'm using void linux, but i used the next opera
 
 If you want to check my ricing, you can see my [repositories](https://github.com/AlphaTechnolog?tab=repositories), or the following repos:
 
-- [dotfiles-v2](https://github.com/AlphaTechnolog/dotfiles-v2)
+- [dotfiles](https://github.com/AlphaTechnolog/dotfiles)
 - [dwm](https://github.com/AlphaTechnolog/dwm)
 - [eww-dotfiles](https://github.com/AlphaTechnolog/eww-dotfiles)
 - [nightlypwn](https://github.com/NightCS/nightlypwn)
@@ -44,7 +44,7 @@ I'm working too in a darker palette!
 
 This is my [current setup](https://github.com/AlphaTechnolog/dotfiles-v2)
 
-![banner](https://user-images.githubusercontent.com/54639968/173162047-e37a149f-cd66-4712-ae09-43292d67d29e.png)
+![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/awesomewm/.github/assets/banner.png)
 
 ## Os
 
