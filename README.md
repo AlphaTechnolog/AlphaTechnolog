@@ -21,7 +21,6 @@ If you want to check my ricing, you can see my [repositories](https://github.com
 - [dwm](https://github.com/AlphaTechnolog/dwm)
 - [eww-dotfiles](https://github.com/AlphaTechnolog/eww-dotfiles)
 - [nightlypwn](https://github.com/NightCS/nightlypwn)
-- [dotfiles](https://github.com/AlphaTecholog/dotfiles)
 
 I'm ricing neovim too, i'm the creator of the [pywal.nvim](https://github.com/AlphaTechnolog/pywal.nvim) plugin, and the creator of
 [nvcodark](https://github.com/AlphaTechnolog/nvcodark) too (nvcodark is broken now, i'm refactorizing a lot of things in the `dev` branch)
@@ -44,7 +43,7 @@ I'm working too in a darker palette!
 
 This is my [current setup](https://github.com/AlphaTechnolog/dotfiles-v2)
 
-![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/awesomewm/.github/assets/banner.png)
+![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/openbox/.github/assets/banner.png)
 
 ## Os
 
