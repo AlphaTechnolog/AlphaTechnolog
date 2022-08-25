@@ -41,7 +41,7 @@ I'm working too in a darker palette!
 
 ## Current setup
 
-This is my [current setup](https://github.com/AlphaTechnolog/dotfiles-v2)
+This is my [current setup](https://github.com/AlphaTechnolog/dotfiles)
 
 ![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/openbox/.github/assets/banner.png)
 
