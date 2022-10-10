@@ -43,7 +43,7 @@ I'm working too in a darker palette!
 
 This is my [current setup](https://github.com/AlphaTechnolog/dotfiles)
 
-![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/awesomewm/.github/assets/banner.png)
+![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/awesomewm-vertical/.github/assets/banner.png)
 
 ## Os
 
