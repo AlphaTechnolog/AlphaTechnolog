@@ -4,8 +4,9 @@ Hello! My name is Gabriel Guerra (@AlphaTechnolog) and i have 15 years old
 
 I work as webdev and i have 5 years of experience, i'm using linux since 4 years and i'm in really love with that
 
-I love the linux ricing, and now i'm using void linux, but i used the next operative systems too:
+I love the linux ricing, and now i'm using NixOS, but i used the next operative systems too:
 
+- NixOS (Current OS)
 - Arch Linux
 - Debian
 - Ubuntu
@@ -44,15 +45,6 @@ I'm working too in a darker palette!
 This is my [current setup](https://github.com/AlphaTechnolog/dotfiles)
 
 ![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/awesomewm-vertical/.github/assets/banner.png)
-
-## Os
-
-Currently i'm using **Void Linux**, and ricing it as well! :3
-
-My preferred operative systems are:
-
-- Void Linux: I love runit/xbps/xbps-src!
-- Arch Linux: I love aur/pacman
 
 ## Favorite technologies
 
