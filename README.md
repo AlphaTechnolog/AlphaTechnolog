@@ -42,9 +42,9 @@ I'm working too in a darker palette!
 
 ## Current setup
 
-This is my [current setup](https://github.com/AlphaTechnolog/dotfiles)
+This is my [current setup](https://github.com/AlphaTechnolog/nixdots)
 
-![banner](https://raw.githubusercontent.com/AlphaTechnolog/dotfiles/awesomewm-vertical/.github/assets/banner.png)
+![banner](https://raw.githubusercontent.com/AlphaTechnolog/nixdots/main/.github/assets/banner.png)
 
 ## Favorite technologies
 
