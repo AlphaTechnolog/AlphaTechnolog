@@ -18,6 +18,7 @@ I love the linux ricing, and now i'm using NixOS, but i used the next operative 
 
 If you want to check my ricing, you can see my [repositories](https://github.com/AlphaTechnolog?tab=repositories), or the following repos:
 
+- [nixdots](https://github.com/AlphaTechnolog/nixdots)
 - [dotfiles](https://github.com/AlphaTechnolog/dotfiles)
 - [dwm](https://github.com/AlphaTechnolog/dwm)
 - [eww-dotfiles](https://github.com/AlphaTechnolog/eww-dotfiles)
