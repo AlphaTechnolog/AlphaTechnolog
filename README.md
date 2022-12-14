@@ -45,7 +45,7 @@ I'm working too in a darker palette!
 
 This is my [current setup](https://github.com/AlphaTechnolog/nixdots)
 
-![banner](https://raw.githubusercontent.com/AlphaTechnolog/nixdots/main/.github/assets/banner.png)
+![banner](https://raw.githubusercontent.com/AlphaTechnolog/nixdots/main/.github/assets/x11.png)
 
 ## Favorite technologies
 
