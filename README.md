@@ -1,6 +1,6 @@
 # Gabriel Guerra (AlphaTechnolog)
 
-Hello! My name is Gabriel Guerra (@AlphaTechnolog) and i have 15 years old
+Hello! My name is Gabriel Guerra (@AlphaTechnolog) and I'm 15 years old
 
 I work as webdev and i have 5 years of experience, i'm using linux since 4 years and i'm in really love with that
 
