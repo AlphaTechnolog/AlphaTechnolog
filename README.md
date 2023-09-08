@@ -6,7 +6,7 @@ I work as webdev and i have 5 years of experience, i'm using linux since 4 years
 
 I love the linux ricing, and now i'm using NixOS, but i used the next operative systems too:
 
-- NixOS (Current OS)
+- NixOS
 - Arch Linux
 - Debian
 - Ubuntu
