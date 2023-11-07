@@ -1,18 +1,20 @@
 # Gabriel Guerra (AlphaTechnolog)
 
-Hello! My name is Gabriel Guerra (@AlphaTechnolog) and I'm 16 years old
+Hello! My name is Gabriel Guerra (@AlphaTechnolog) and I'm 16 years old.
 
-I work as webdev and i have 5 years of experience, i'm using linux since 4 years and i'm in really love with that
+I enjoy customizing my linux systems! Right now im daily driving Arch Linux, but i have kind of experience using the next distros too :P
 
-I love the linux ricing, and now i'm using NixOS, but i used the next operative systems too:
-
+- Gentoo
+- Funtoo
 - NixOS
-- Arch Linux
+- Bedrock Linux (meta distro tho)
 - Debian
-- Ubuntu
+- Devuan
+- Alpine
 - Void Linux
-- Parrot
-- Kali
+- Artix Linux
+
+> Fun fact, i daily drove them all some time too lol
 
 ## Ricing
 
@@ -24,39 +26,13 @@ If you want to check my ricing, you can see my [repositories](https://github.com
 - [eww-dotfiles](https://github.com/AlphaTechnolog/eww-dotfiles)
 - [nightlypwn](https://github.com/NightCS/nightlypwn)
 
-I'm ricing neovim too, i'm the creator of the [pywal.nvim](https://github.com/AlphaTechnolog/pywal.nvim) plugin, and the creator of
-[nvcodark](https://github.com/AlphaTechnolog/nvcodark) too (nvcodark is broken now, i'm refactorizing a lot of things in the `dev` branch)
+I'm making some contributions to the neovim plugins ecosystem btw, I'm the creator of the [pywal.nvim](https://github.com/AlphaTechnolog/pywal.nvim) plugin, and the decay colorscheme :)
 
 ## Decay
 
-Currently i'm working in a colorscheme/colors palette with my friends, it's called decay, you can see the WIP (work in progress)
-repositories that provides ports, if you want to contribute feel free to contact me using Discord (alphatechnolog#6570) or using
-my mail (provided in my profile desc)
+Currently i'm working in a colorscheme/colors palette with the decay community, it's called decay, you can check out the repositories for the ports of applications with the decay colorscheme by checking [here](https://github.com/decaycs).
 
-You can contribute uploading pull requests/issues, that would be very appreciated, you'll get thanks too.
-
-[decay](https://github.com/decaycs) (i hope you like this! :3)
-
-I'm working too in a darker palette!
-
-**Join to the decay discord server!!**: https://discord.gg/87duqCjx
-
-## Current setup
-
-This is my [current setup](https://github.com/AlphaTechnolog/nixdots)
-
-![banner](https://raw.githubusercontent.com/AlphaTechnolog/nixdots/main/.github/assets/x11.png)
-
-## Favorite technologies
-
-So, i work as webdev, and i'm in love with the next technologies
-
-- Javascript (Node.js)
-- Express
-- Python
-- Vue
-- MongoDB
-- MySQL
+[Join to the decay discord server here :)](https://discord.gg/87duqCjx)
 
 ## Stats
 
