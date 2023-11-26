@@ -2,7 +2,7 @@
 
 Hello! My name is Gabriel Guerra (@AlphaTechnolog) and I'm 16 years old.
 
-I enjoy customizing my linux systems! Right now im daily driving Arch Linux, but i have kind of experience using the next distros too :P
+I enjoy customizing my linux systems! And here are my favorite distros :)
 
 - Gentoo
 - Funtoo
@@ -13,6 +13,8 @@ I enjoy customizing my linux systems! Right now im daily driving Arch Linux, but
 - Alpine
 - Void Linux
 - Artix Linux
+- Arch Linux
+- OpenSUSE Tumbleweed
 
 > Fun fact, i daily drove them all some time too lol
 
