@@ -10,11 +10,14 @@ I enjoy customizing my linux systems! And here are my favorite distros :)
 - Bedrock Linux (meta distro tho)
 - Debian
 - Devuan
+- Fedora
+- Vanilla OS
+- GNU Guix
 - Alpine
 - Void Linux
 - Artix Linux
 - Arch Linux
-- OpenSUSE Tumbleweed
+- OpenSUSE {Leap/Tumbleweed}
 
 > Fun fact, i daily drove them all some time too lol
 
