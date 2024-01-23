@@ -23,15 +23,10 @@ I enjoy customizing my linux systems! And here are my favorite distros :)
 
 ## Ricing
 
-If you want to check my ricing, you can see my [repositories](https://github.com/AlphaTechnolog?tab=repositories), or the following repos:
+I enjoy doing some customisations to my daily driver machine, and im currently working on a new setup based in the awesome ["AwesomeWM"](https://github.com/awesomeWM/awesome) project!. Some of my already finished dotfiles can be found at:
 
-- [nixdots](https://github.com/AlphaTechnolog/nixdots)
 - [dotfiles](https://github.com/AlphaTechnolog/dotfiles)
-- [dwm](https://github.com/AlphaTechnolog/dwm)
-- [eww-dotfiles](https://github.com/AlphaTechnolog/eww-dotfiles)
-- [nightlypwn](https://github.com/NightCS/nightlypwn)
-
-I'm making some contributions to the neovim plugins ecosystem btw, I'm the creator of the [pywal.nvim](https://github.com/AlphaTechnolog/pywal.nvim) plugin, and the decay colorscheme :)
+- [nixdots](https://github.com/AlphaTechnolog/nixdots)
 
 ## Decay
 
