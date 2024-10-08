@@ -2,7 +2,7 @@
 
 Hello! My name is Gabriel Guerra (@AlphaTechnolog) and I'm 17 years old.
 
-I enjoy customizing my linux systems! And here are my favorite distros :)
+I enjoy customizing my linux systems! And here's a list of my favorite linux distros at thte moment.
 
 - Gentoo
 - Funtoo
@@ -21,18 +21,24 @@ I enjoy customizing my linux systems! And here are my favorite distros :)
 
 > Fun fact, i daily drove them all some time too lol
 
+As you can tell, i've a little bit of experience using linux as my day to day workflow, and because of so, i think i've acquired quite some good knowledge about how machines works.
+
 ## Ricing
 
-I enjoy doing some customisations to my daily driver machine, and im currently working on a new setup based in the awesome ["AwesomeWM"](https://github.com/awesomeWM/awesome) project!. Some of my already finished dotfiles can be found at:
+I enjoyed working on these linux-systems-customization projects, which helped me get a fully working workstation while being pleasant to my eyes. Here's a list of my favorite works about this kind of projects.
 
 - [dotfiles](https://github.com/AlphaTechnolog/dotfiles)
 - [nixdots](https://github.com/AlphaTechnolog/nixdots)
 
+> Nowadays am using regular gnome and macos for my day to day basis but i really appreciate these projects as a resource of learning for myself.
+
 ## Decay
 
-Currently i'm working in a colorscheme/colors palette with the decay community, it's called decay, you can check out the repositories for the ports of applications with the decay colorscheme by checking [here](https://github.com/decaycs).
+I've been working in a colorscheme/colors palette, called decay... This helped me create an awesome community based around this colorscheme, with plenty of volunters who liked my work and helped me contributing to the project :)
 
-[Join to the decay discord server here :)](https://discord.gg/87duqCjx)
+- [decaycs](https://github.com/decaycs)
+
+If you're interested, you can join to the discord server [here](https://discord.gg/87duqCjx)
 
 ## Stats
 
