@@ -2,7 +2,7 @@
 
 Hello! My name is Gabriel Guerra (@AlphaTechnolog) and I'm 17 years old.
 
-I enjoy customizing my linux systems! And here's a list of my favorite linux distros at thte moment.
+I enjoy customizing my linux systems! And here's a list of my favorite linux distros at the moment.
 
 - Gentoo
 - Funtoo
