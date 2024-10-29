@@ -1,6 +1,6 @@
 # Gabriel Guerra (AlphaTechnolog)
 
-Hello! My name is Gabriel Guerra (@AlphaTechnolog) and I'm 17 years old.
+Hello! My name is Franklin Gabriel Guerra (@AlphaTechnolog) and I'm 17 years old.
 
 I enjoy customizing my linux systems! And here's a list of my favorite linux distros at the moment.
 
