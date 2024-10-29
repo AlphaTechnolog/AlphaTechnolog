@@ -1,4 +1,4 @@
-# Gabriel Guerra (AlphaTechnolog)
+# AlphaTechnolog
 
 Hello! My name is Franklin Gabriel Guerra (@AlphaTechnolog) and I'm 17 years old.
 
